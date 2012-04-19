@@ -10,3 +10,6 @@ C:\Users\Haoge\Documents\Visual Studio 2010\Projects\HCIGM\HCIGM\obj\x86\Debug\H
 C:\Users\Haoge\Documents\Visual Studio 2010\Projects\HCIGM\HCIGM\obj\x86\Debug\HCIGM.xml
 C:\Users\Haoge\Documents\Visual Studio 2010\Projects\HCIGM\HCIGM\obj\x86\Debug\HCIGM.pdb
 C:\Users\Haoge\Documents\Visual Studio 2010\Projects\HCIGM\HCIGM\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Adam\My Documents\School\Computer Science\CS 3041\HCIGM\HCIGM\HCIGM\obj\x86\Debug\HCIGM.exe
+C:\Documents and Settings\Adam\My Documents\School\Computer Science\CS 3041\HCIGM\HCIGM\HCIGM\obj\x86\Debug\HCIGM.xml
+C:\Documents and Settings\Adam\My Documents\School\Computer Science\CS 3041\HCIGM\HCIGM\HCIGM\obj\x86\Debug\HCIGM.pdb
